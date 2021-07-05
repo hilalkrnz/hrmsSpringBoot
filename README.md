@@ -1,2 +1,3 @@
 # hrmsSpringBoot
- Sistemde bulunan genel iş pozisyonlarını listeleme
+* Sistemde kayıt olma ve kaydedilenleri listeleme(tüm liste)
+
